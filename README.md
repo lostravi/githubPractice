@@ -1,3 +1,3 @@
 # githubPractice
 this is for practice 
-Author : Ravi kumar
+Author : Ravi kumar Frontend
